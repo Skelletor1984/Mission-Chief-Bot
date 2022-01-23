@@ -5,5 +5,6 @@
         "'litrów piany gaśniczej'" : {"name" : "samochody ze zbiornikiem na piane", "qty" : "1"},
         "'litrów wody'" : {"name" : "samochód pożarniczy", "qty" : "1"},
         "'policjanci SPKP' and 'policjanci spkp'" : {"name" : "policjanci spkp", "qty" : "1"},
-        "'policjanci' and 'Policjanci'" : {"name" : "radiowozy", "qty" : "1"}
+        "'policjanci' and 'Policjanci'" : {"name" : "radiowozy", "qty" : "1"},
+        "'Needed vehicles:' and 'gal. foam'" : {"name" : "foam", "qty" : "2"}
 }
