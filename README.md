@@ -1,6 +1,9 @@
 ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
 
-# Mission Chief Bot 
+
+![logo](https://i.imgur.com/9cQV1qK.png)
+
+
 <sub><sup>missionchief-australia bot</sup></sub> 
 <sub><sup>leitstellenspiel bot</sup></sub>
 <sub><sup>alarmcentral-spil bot</sup></sub>
@@ -25,7 +28,10 @@ A Mission Chief bot written to automate the general despatching jobs of the bot.
 
 The bot is exclusively now being delivered via the [Mission Chief Bot Website](https://missionchiefbot.com/) 
 
+## Documentation 
+
 The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) any walkthroughs, guides etc will be there.
+
 
 ## Supported Servers
 ![au](https://img.shields.io/badge/-AU-green)
