@@ -313,5 +313,37 @@
         "minpersonnel": 2,
         "maxpersonnel": 3,
         "foam": 2000
+    },
+    {
+        "id": 38,
+        "caption": "Pattuglia Polizia Stradale",
+        "coins": -1,
+        "credits": -1,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
+    },
+    {
+        "id": 39,
+        "caption": "Moto Polizia Stradale",
+        "coins": -1,
+        "credits": -1,
+        "minPersonnel": 1,
+        "maxPersonnel": 1
+    },
+    {
+        "id": 40,
+        "caption": "Pattuglia Forestale",
+        "coins": -1,
+        "credits": -1,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
+    },
+    {
+        "id": 41,
+        "caption": "Idrante Antisommossa",
+        "coins": -1,
+        "credits": -1,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
     }
 ]
