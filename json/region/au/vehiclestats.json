@@ -288,5 +288,37 @@
         "minpersonnel": 2,
         "maxpersonnel": 3,
         "water": 13000
+    },
+   {
+        "id": 34,
+        "caption": "Riot Police SUV",
+        "coins": 10,
+        "credits": 15000,
+        "minPersonnel": 1,
+        "maxPersonnel": 4
+    },
+    {
+        "id": 35,
+        "caption": "Riot Police Group Vehicle",
+        "coins": 10,
+        "credits": 15000,
+        "minPersonnel": 1,
+        "maxPersonnel": 8
+    },
+    {
+        "id": 36,
+        "caption": "Riot Police Equipment Vehicles",
+        "coins": 15,
+        "credits": 35000,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
+    },
+    {
+        "id": 37,
+        "caption": "Senior Sergeant",
+        "coins": 15,
+        "credits": 35000,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
     }
 ]
