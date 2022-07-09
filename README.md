@@ -27,6 +27,7 @@ A Mission Chief bot written to automate the general despatching jobs of the bot.
 ## Accessing the bot 
 
 The bot is exclusively now being delivered via the [Mission Chief Bot Website](https://missionchiefbot.com/) 
+Please see the [Wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) to see how the bot works, and how to get it etc.
 
 ## Documentation 
 
