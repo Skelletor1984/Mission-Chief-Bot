@@ -37,14 +37,17 @@ The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission
 
 ## Supported Servers
 ![au](https://img.shields.io/badge/-AU-green)
+![br](https://img.shields.io/badge/-BR-green)
 ![cz](https://img.shields.io/badge/-CZ-green)
 ![de](https://img.shields.io/badge/-DE-green)
 ![dk](https://img.shields.io/badge/-DK-green)
 ![es](https://img.shields.io/badge/-ES-green)
+![fl](https://img.shields.io/badge/-FL-green)
 ![fr](https://img.shields.io/badge/-FR-green)
 ![it](https://img.shields.io/badge/-IT-green)
 ![jp](https://img.shields.io/badge/-JP-green)
 ![kr](https://img.shields.io/badge/-KR-green)
+![mx](https://img.shields.io/badge/-MX-green)
 ![nl](https://img.shields.io/badge/-NL-green)
 ![no](https://img.shields.io/badge/-NO-green)
 ![pl](https://img.shields.io/badge/-PL-green)
@@ -54,19 +57,23 @@ The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission
 ![se](https://img.shields.io/badge/-SE-green)
 ![sk](https://img.shields.io/badge/-SK-green)
 ![tu](https://img.shields.io/badge/-TU-green)
+![ua](https://img.shields.io/badge/-UA-green)
 ![uk](https://img.shields.io/badge/-UK-green)
 ![us](https://img.shields.io/badge/-US-green)
 
 ## Supported URLS
 - https://www.missionchief-australia.com/
+- https://www.operador193.com/
 - https://www.operacni-stredisko.cz/
 - https://www.leitstellenspiel.de/
 - https://www.alarmcentral-spil.dk/
 - https://www.centro-de-mando.es/
+- https://www.hatakeskuspeli.com/
 - https://www.operateur112.fr/
 - https://www.operatore112.it/
 - https://www.missionchief-japan.com/
 - https://missionchief-korea.com/
+- https://www.centro-de-mando.mx/
 - https://www.meldkamerspel.com/
 - https://www.nodsentralspillet.com/
 - https://www.operatorratunkowy.pl/
@@ -76,6 +83,7 @@ The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission
 - https://www.larmcentralen-spelet.se/
 - https://www.dispecerske-centrum.com/
 - https://www.112-merkez.com/
+- https://www.dyspetcher101-game.com/
 - https://www.missionchief.co.uk/
 - https://www.missionchief.com/
 
