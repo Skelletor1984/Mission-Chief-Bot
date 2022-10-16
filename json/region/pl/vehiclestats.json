@@ -590,5 +590,133 @@
         "minpersonnel": 0,
         "maxpersonnel": 0,
         "water": 0
+    },
+    {
+        "id": 65,
+        "caption": "Furgonetka OPP",        
+        "coins": 5,
+        "credits": 10000,
+        "minPersonnel": 6,
+        "maxPersonnel": 8
+    },
+    {
+        "id": 66,
+        "caption": "Van OPP",        
+        "coins": 5,
+        "credits": 10000,
+        "minPersonnel": 4,
+        "maxPersonnel": 7
+    },
+    {
+        "id": 67,
+        "caption": "Pickup OPP",        
+        "coins": 10,
+        "credits": 25000,
+        "minPersonnel": 2,
+        "maxPersonnel": 3
+    },
+    {
+        "id": 68,
+        "caption": "Ambulans OPP",        
+        "coins": 15,
+        "credits": 25000,
+        "minPersonnel": 2,
+        "maxPersonnel": 4
+    },
+    {
+        "id": 69,
+        "caption": "Armatka wodna",        
+        "coins": 15,
+        "credits": 35000,
+        "minPersonnel": 2,
+        "maxPersonnel": 3
+    },
+    {
+        "id": 70,
+        "caption": "Autobus policyjny",        
+        "coins": 10,
+        "credits": 30000,
+        "minPersonnel": 12,
+        "maxPersonnel": 36
+    },
+    {
+        "id": 71,
+        "caption": "Samochód SM",        
+        "coins": 10,
+        "credits": 5000,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
+    },
+    {
+        "id": 72,
+        "caption": "Furgonetka SM",        
+        "coins": 10,
+        "credits": 10000,
+        "minPersonnel": 2,
+        "maxPersonnel": 4
+    },
+    {
+        "id": 73,
+        "caption": "Szybki Radiowóz WRD",
+        "coins": 10,
+        "credits": 15000,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
+    },
+    {
+        "id": 74,
+        "caption": "Motocykl WRD",        
+        "coins": 10,
+        "credits": 8000,
+        "minPersonnel": 1,
+        "maxPersonnel": 1
+    },
+    {
+        "id": 75,
+        "caption": "APRD",        
+        "coins": 15,
+        "credits": 25000,
+        "minPersonnel": 1,
+        "maxPersonnel": 2
+    },
+    {
+        "id": 76,
+        "caption": "Furgonetka policyjna",        
+        "coins": 25,
+        "credits": 8000,
+        "minPersonnel": 2,
+        "maxPersonnel": 4
+    },
+    {
+        "id": 77,
+        "caption": "Samochód terenowy",        
+        "coins": 25,
+        "credits": 5000,
+        "minPersonnel": 1,
+        "maxPersonnel": 3
+    },
+    {
+        "id": 78,
+        "caption": "Ruchome Stanowisko Dowodzenia",        
+        "coins": 25,
+        "credits": 50000,
+        "minPersonnel": 2,
+        "maxPersonnel": 3
+    },
+    {
+        "id": 79,
+        "caption": "Mała więźniarka",        
+        "coins": 15,
+        "credits": 15000,
+        "minPersonnel": 2,
+        "maxPersonnel": 4
+    },
+    {
+        "id": 80,
+        "caption": "Duża więźniarka",        
+        "coins": 25,
+        "credits": 50000,
+        "minPersonnel": 4,
+        "maxPersonnel": 6
     }
 ]
