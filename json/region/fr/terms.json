@@ -1,4 +1,4 @@
 {
-    "terms" : [ " gal. mousse. " , " gal. eau. " ],
-    "links" : { "gal. mousse." : " mousse " , " gal. eau." : " eau " }
+    "terms" : ["l d’eau"],
+    "links" : {"l d’eau" : "water"}
 }
