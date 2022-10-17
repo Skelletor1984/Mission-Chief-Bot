@@ -1,2 +1,95 @@
 {
+ "camiones de bomberos": [
+  0,
+  1
+ ],
+ "camión de bomberos": [
+  0,
+  1
+ ],
+ "camión ae": [
+  2
+ ],
+ "camiones con plataforma": [
+  4
+ ],
+ "unidades de mando y comunicaciones": [
+  3,
+  11
+ ],
+ "unidades de mando": [
+  11
+ ],
+ "furgones de útiles varios": [
+  4
+ ],
+ "Vehículo aéreo": [
+  10
+ ],
+ "Unidad logística de AMV": [
+  19
+ ],
+ "Ambulancia": [
+  5
+ ],
+ "ambulance": [
+  5
+ ],
+ "Unidad Canina": [
+  16
+ ],
+ "Coche patrulla": [
+  8,
+  16
+ ],
+ "coches patrulla": [
+  8,
+  16
+ ],
+ "Unidad GEO": [
+  14,
+  15
+ ],
+ "Unidad Antidisturbios": [
+  14
+ ],
+ "Moto de Policía": [
+  17
+ ],
+ "Camión TPP": [
+  7
+ ],
+ "Vehículos aéreos móviles": [
+  7
+ ],
+ "camión TPP": [
+  7
+ ],
+ "vehículos aéreos móviles": [
+  7
+ ],
+ "Camión BNP": [
+  6
+ ],
+ "camiones cisterna": [
+  6
+ ],
+ "Vehículos de extinción por espuma": [
+  23
+ ],
+ "vehículos de extinción por espuma": [
+  23
+ ],
+ "Bombas accionadas por motor": [
+  24
+ ],
+ "bombas accionadas por motor": [
+  24
+ ],
+ "l de agua": [
+  6
+ ],
+ "camión cisterna": [
+  6
+ ]
 }
